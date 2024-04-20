@@ -34,7 +34,7 @@ func (receiver *ServiceProvider) Boot(app foundation.Application) {
 	ValidationFacade = app.MakeValidation()
 	ViewFacade = app.MakeView()
 
-	app.Publishes("github.com/goravel/gin", map[string]string{
+	app.Publishes("github.com/Firhan384/gin", map[string]string{
 		"config/cors.go": app.ConfigPath("cors.go"),
 	})
 }

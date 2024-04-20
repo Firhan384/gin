@@ -1,4 +1,4 @@
-module github.com/goravel/gin
+module github.com/Firhan384/gin
 
 go 1.20
 
