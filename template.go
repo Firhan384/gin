@@ -7,8 +7,8 @@ import (
 
 	"github.com/gin-gonic/gin/render"
 
-	"github.com/goravel/framework/support"
-	"github.com/goravel/framework/support/file"
+	"github.com/Firhan384/framework/support"
+	"github.com/Firhan384/framework/support/file"
 )
 
 type Delims struct {

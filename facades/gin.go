@@ -3,7 +3,7 @@ package facades
 import (
 	"log"
 
-	"github.com/goravel/framework/contracts/route"
+	"github.com/Firhan384/framework/contracts/route"
 
 	"github.com/Firhan384/gin"
 )

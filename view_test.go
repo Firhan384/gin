@@ -5,10 +5,10 @@ import (
 	"net/http/httptest"
 	"testing"
 
-	configmocks "github.com/goravel/framework/contracts/config/mocks"
-	contractshttp "github.com/goravel/framework/contracts/http"
-	httpmocks "github.com/goravel/framework/contracts/http/mocks"
-	"github.com/goravel/framework/support/file"
+	configmocks "github.com/Firhan384/framework/contracts/config/mocks"
+	contractshttp "github.com/Firhan384/framework/contracts/http"
+	httpmocks "github.com/Firhan384/framework/contracts/http/mocks"
+	"github.com/Firhan384/framework/support/file"
 	"github.com/stretchr/testify/assert"
 )
 

@@ -10,10 +10,10 @@ import (
 	"github.com/gin-gonic/gin/render"
 	"github.com/gookit/color"
 
-	"github.com/goravel/framework/contracts/config"
-	httpcontract "github.com/goravel/framework/contracts/http"
-	"github.com/goravel/framework/contracts/route"
-	"github.com/goravel/framework/support"
+	"github.com/Firhan384/framework/contracts/config"
+	httpcontract "github.com/Firhan384/framework/contracts/http"
+	"github.com/Firhan384/framework/contracts/route"
+	"github.com/Firhan384/framework/support"
 )
 
 type Route struct {

@@ -6,9 +6,9 @@ import (
 	"strings"
 	"testing"
 
+	configmocks "github.com/Firhan384/framework/contracts/config/mocks"
+	contractshttp "github.com/Firhan384/framework/contracts/http"
 	"github.com/bytedance/sonic"
-	configmocks "github.com/goravel/framework/contracts/config/mocks"
-	contractshttp "github.com/goravel/framework/contracts/http"
 	"github.com/stretchr/testify/assert"
 )
 

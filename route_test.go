@@ -9,10 +9,10 @@ import (
 	"testing"
 	"time"
 
+	configmocks "github.com/Firhan384/framework/contracts/config/mocks"
+	contractshttp "github.com/Firhan384/framework/contracts/http"
+	"github.com/Firhan384/framework/contracts/validation"
 	"github.com/gin-gonic/gin/render"
-	configmocks "github.com/goravel/framework/contracts/config/mocks"
-	contractshttp "github.com/goravel/framework/contracts/http"
-	"github.com/goravel/framework/contracts/validation"
 	"github.com/stretchr/testify/assert"
 )
 

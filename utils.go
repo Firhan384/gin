@@ -8,8 +8,8 @@ import (
 
 	"github.com/gin-gonic/gin"
 
-	"github.com/goravel/framework/contracts/config"
-	httpcontract "github.com/goravel/framework/contracts/http"
+	"github.com/Firhan384/framework/contracts/config"
+	httpcontract "github.com/Firhan384/framework/contracts/http"
 )
 
 func pathToGinPath(relativePath string) string {
