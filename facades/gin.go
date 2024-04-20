@@ -3,9 +3,9 @@ package facades
 import (
 	"log"
 
-	"github.com/goravel/framework/contracts/route"
+	"github.com/Firhan384/framework/contracts/route"
 
-	"github.com/goravel/gin"
+	"github.com/Firhan384/gin"
 )
 
 func Route(driver string) route.Route {
